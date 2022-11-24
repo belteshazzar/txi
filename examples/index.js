@@ -1,7 +1,4 @@
-var Txi;
-if(typeof(module)!=="undefined") {
-	Txi = require("../index.js");
-}
+import {Txi} from '../index.js'
 
 (async function run() {
 	const data = {
