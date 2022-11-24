@@ -4,6 +4,7 @@
   "description": "Small, focused full-text indexing and search for any JavaScript application",
   "engines": {},
   "license": "MIT",
+  "main": "index.js",
   "type": "module",
   "scripts": {},
   "repository": {
